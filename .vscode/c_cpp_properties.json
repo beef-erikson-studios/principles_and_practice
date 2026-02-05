@@ -4,14 +4,16 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/Ch1"
+                "${workspaceFolder}/ch1",
+                "${workspaceFolder}/ch2"
             ],
             "compilerPath": "/usr/bin/g++",
             "cStandard": "c17",
             "cppStandard": "c++23",
             "intelliSenseMode": "linux-gcc-x64",
             "compilerArgs": [
-                "-std=c++23"
+                "-std=c++23",
+                "-Wall"
             ]
         }
     ],
