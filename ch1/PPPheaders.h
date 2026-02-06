@@ -8,7 +8,7 @@
 #include<stdexcept>
 #include<random>
 
-#include<stdint.h>
+#include<cstdint> 
 #include<list>
 #include <map>
 #include<unordered_map>
